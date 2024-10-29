@@ -1,0 +1,9 @@
+.author-box { font-family: Verdana; font-size: 13px; background: #F3F3F3; height: 110px; border: 1px solid #bbb; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+    .author-box img { padding: 3px !important; border: 2px solid #ccc !important; border-radius: 5px !important; margin: 10px 5px 5px 10px !important; float: left !important; }
+        .author-box img:hover { border: 2px solid #73A6FF !important;  }
+    .author-box h2 { font: 24px Lucida Sans Unicode, Lucida Grande, sans-serif !important; color: #698 !important; padding: 0px !important; margin: 7px 0 5px 10px !important; }
+    .author-box p.description { font: 12px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif !important; color: #555 !important; margin-top: 2px !important; margin-bottom: 7px !important;  }
+    .author-box span.author-link { float: right !important; margin: 10px !important; }
+        .author-box span.author-link a { font-size: 11px !important; color: #698 !important; text-decoration: none !important; }
+            .author-box span.author-link a:hover { text-decoration: underline !important; color:  #73A6FF !important; }
+        .author-box span.social-icons img {border: none !important; margin: 0 !important; padding: 0 7px 0 0 !important;}
